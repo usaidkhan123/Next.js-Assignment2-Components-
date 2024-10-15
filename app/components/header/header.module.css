@@ -1,0 +1,36 @@
+
+.header {  
+    margin:-8px;
+    background-color:#314aefd5 ; 
+    color:black;
+    display: flex;
+    justify-content: flex-start; 
+    align-items: center;
+   height: 60px;
+}
+.header ul {
+    list-style: none;
+    display: flex;
+    margin: 0px; 
+    padding: 10px 300px;
+    text-align: left;
+    margin-top: 0px;
+}
+.header ul li {
+    text-align: left;
+    margin-left: 80px; 
+    color:white;
+    text-decoration: none;
+    margin-top: 0px;
+}
+.header ul li a {
+    color: aliceblue;
+}
+
+.logo  {
+    margin-left: 20px;
+    margin-right: 200px;
+    color:white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 20px;
+}
