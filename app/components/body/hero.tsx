@@ -17,16 +17,16 @@ const Hero = () => {
             <section className={style.cta}>
                 <h1 className={style.heading}> <u className={style.underline}>Our Services</u></h1>
             <section className={style.marketingbox}>
-            <h3 className={style.marketing}>💼 Marketing</h3>
-            <p className={style.Services}> Lorem Ipsum is simply dummy text of  <br />the printing and typesetting industry. <br /> Lorem Ipsum has been the industry's <br /> standard dummy text ever since the 1500 <br />when an unknown printer took a galley.</p>
+            <h3 className={style.marketing}> Marketing</h3>
+            <p className={style.Services}> Lorem Ipsum is simply dummy text of  <br />the printing and typesetting industry. <br /> Lorem Ipsum has been the industry s <br /> standard dummy text ever since the 1500 <br />when an unknown printer took a galley.</p>
         </section>
         <section className={style.seobox}>
-            <h3 className={style.seo}>🔍Seo/Sem</h3>
-            <p className={style.Services}> Lorem Ipsum is simply dummy text of  <br />the printing and typesetting industry. <br /> Lorem Ipsum has been the industry's <br /> standard dummy text ever since the 1500 <br />when an unknown printer took a galley.</p>
+            <h3 className={style.seo}>Seo/Sem</h3>
+            <p className={style.Services}> Lorem Ipsum is simply dummy text of  <br />the printing and typesetting industry. <br /> Lorem Ipsum has been the industry s <br /> standard dummy text ever since the 1500 <br />when an unknown printer took a galley.</p>
         </section>
         <section className={style.viralbox}>
-            <h3 className={style.seo}>📢Viral Campaign</h3>
-            <p className={style.Services}> Lorem Ipsum is simply dummy text of  <br />the printing and typesetting industry. <br /> Lorem Ipsum has been the industry's <br /> standard dummy text ever since the 1500 <br />when an unknown printer took a galley.</p>
+            <h3 className={style.seo}>Viral Campaign</h3>
+            <p className={style.Services}> Lorem Ipsum is simply dummy text of  <br />the printing and typesetting industry. <br /> Lorem Ipsum has been the industry s <br /> standard dummy text ever since the 1500 <br />when an unknown printer took a galley.</p>
         </section>
             </section>
     </div>
