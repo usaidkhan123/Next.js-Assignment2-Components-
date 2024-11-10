@@ -6,7 +6,7 @@ const Hero = () => {
         <h1 className={style.intro}> <b>We Create <br /> 
         <span className={style.sol}>Solution</span> For <br />
         <span>Your Business</span></b></h1>
-        <p className={style.para}><b>Lorem Ipsum is simply dummy text of the printing and.<br/> Lorem Ipsum has been the industry's standard dummy, <br/> when an unknown printer took a galley of type and .</b></p>
+        <p className={style.para}><b>Lorem Ipsum is simply dummy text of the printing and.<br/> Lorem Ipsum has been the industry s standard dummy, <br/> when an unknown printer took a galley of type and .</b></p>
      <button className={style.button} >Get  Started</button>
             </section>
 
